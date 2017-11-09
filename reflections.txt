@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I would say the newest skills I learned up to this point were the <b> and <sup> tags.
+The parts I find easy is keeping the layout organized.  It helps me to read the codes better.
+The difficult part that I ran into was during the figure's quiz.  I had to research for a while to find out what I was doing wrong, finally found what I had missed when I looked in the forum for help.
+My problem strategies is to try and figure it out on my own first by reading the instructions.  The next step is research on the internet.  Then I use the community forum.
